@@ -7,9 +7,9 @@ Building a simple Decentralized Lending  Dapp with Solidity to deploy on any EVM
 
 2) Write the lending pool contract where users can:
    
-Deposit tokens to earn interest.
-Borrow tokens against their deposits.
-Withdraw tokens plus any interest accrued.
+* Deposit tokens to earn interest.
+* Borrow tokens against their deposits.
+* Withdraw tokens plus any interest accrued.
 
 3) Deploy the contracts on a local testnet, interact via a simple frontend, and see how deposits and withdrawals work.
 
